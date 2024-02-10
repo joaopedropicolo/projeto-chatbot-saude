@@ -3,6 +3,4 @@
 
 // Primeira chamada Bot
 + (*)
-- Olá tudo bem? 
-* <call>verificarCadastroPaciente</call> == null => {topic=cadastro}{@inicio}
-* <call>verificarCadastroPaciente</call> != null => {topic=boas_vindas}{@inicio}
+- {topic=boas_vindas}{@inicio}
